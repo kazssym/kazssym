@@ -2,7 +2,7 @@
 
 ### Merged pull requests
 
-  - coin3d/coin#541
+  - [coin3d/coin#541](https://github.com/coin3d/coin/pull/541)
 
 <!--
 **kazssym/kazssym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
