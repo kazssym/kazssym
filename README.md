@@ -2,7 +2,7 @@
 
 ### Merged pull requests
 
-  - [coin3d/coin#541](https://github.com/coin3d/coin/pull/541) (C++) - support for macro conflict on Win32
+  - [coin3d/coin#541](https://github.com/coin3d/coin/pull/541) (C++) Jan. 20, 2025 - support for macro conflict on Win32
   - [microsoft/vcpkg-tool#1451](https://github.com/microsoft/vcpkg-tool/pull/1451) (C#) July 9, 2024 - support for localized NuGet output
 
 <!--
