@@ -4,6 +4,7 @@
 
   - [coin3d/coin#541](https://github.com/coin3d/coin/pull/541) (C++) Jan. 20, 2025 - support for macro conflict on Win32
   - [microsoft/vcpkg-tool#1451](https://github.com/microsoft/vcpkg-tool/pull/1451) (C#) July 9, 2024 - support for localized NuGet output
+  - [microsoft/onnxruntime-extensions#677](https://github.com/microsoft/onnxruntime-extensions/pull/677) (Python) Mar. 27, 2024
 
 <!--
 **kazssym/kazssym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
