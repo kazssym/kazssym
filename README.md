@@ -1,4 +1,4 @@
-# Hi - I'm Kaz Nishimura
+# Hi – I'm Kaz Nishimura
 
 ## My works
 
